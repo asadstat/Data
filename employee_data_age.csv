@@ -1,0 +1,196 @@
+EmployeeID,Name,Post,birth_date,JoiningDate,Age
+1147,Dr Md Alamgir Hossain,CSO,6/30/1964,11/21/1994,61
+1184,Dr. Khandakar Md Iftekharuddaula,CSO,2/10/1971,8/20/1998,54
+1195,Dr. Partha Sarathi Biswas,PSO,12/27/1971,8/20/1998,53
+1238,Dr. Mohammad Akhlasur Rahman,PSO,2/9/1972,2/28/1999,53
+1239,Dr Mahmuda Khatun,PSO,1/1/1973,2/28/1999,52
+1302,Dr. Md Abdul Kader,PSO,4/1/1969,2/28/1999,56
+1099,Dr Md Mostafa Kamal,CSO,1/15/1963,9/6/1990,62
+1146,Dr A S M Masuduzzaman ,CSO,5/3/1965,11/13/2019,60
+1308,Dr. Mohammad Amir Hossain,PSO,1/26/1964,5/30/2001,61
+1207,Dr Md Fazlul Islam,PSO,7/15/1967,8/20/1998,58
+1261,Dr Md Ruhul Amin Sarkar,SSO,12/1/1974,6/17/2004,50
+1210,Dr. Shahana Parveen,SSO,2/18/1970,8/20/1998,55
+1338,Dr. Sharmistha Ghosal,SSO,7/17/1979,11/12/2007,46
+1343,Dr. Md. Rofiqul Islam,SSO,2/26/1978,11/12/2007,47
+1345,Nirmal Sharma,SSO,4/4/1981,11/12/2007,44
+1390,Ratna Rani Majumder,SSO,10/1/1984,8/20/2009,41
+1392,Md Anisuzzaman,SSO,2/1/1980,8/20/2009,45
+1393,Hasina Khatun,SSO,5/31/1979,8/20/2009,46
+1441,Tapas Kumer Hore,SSO,12/28/1982,6/3/2012,42
+1557,Sheikh Maniruzzaman,SO,12/8/1985,7/10/2013,39
+1559,M M Emam Ahmed,SO,8/15/1991,7/10/2013,34
+1609,A. K. M. Shalahuddin,SO,8/20/1990,7/26/2015,35
+1610,Sanjoy Kumer Debsharma,SO,8/16/1987,7/26/2015,38
+1615,Nusrat Jahan,SO,7/24/1991,7/26/2015,34
+1484,Dr. Md. Jamil Hasan,PSO,12/11/1970,4/2/2006,54
+1485,Ashish Kumar Paul,SSO,8/31/1967,4/9/2006,58
+1483,Dr. Priya Lal Biswas,SSO,4/4/1973,2/3/2008,52
+1487,Dr. Mosammat Umma Kulsum,SSO,12/30/1975,2/23/2006,49
+1488,Dr. Afsana Ansari,SSO,10/11/1979,2/23/2006,46
+1489,Anowara Akter,SSO,5/10/1977,2/23/2006,48
+1490,Md. Hafizar Rahman,SO,1/15/1976,9/14/2006,49
+1491,Laila Ferdousi Lipi,SO,8/21/1986,6/26/2011,39
+1160,Dr. Md. Enamul Hoque,CSO,7/1/1965,11/21/1994,60
+1180,Dr. Shahanaz Sultana,PSO,8/30/1971,8/20/1998,54
+1374,Dr. Jannatul Ferdous,SSO,5/2/1972,7/23/2002,53
+1386,Dr Nilufar Yasmin Shaikh,SSO,11/19/1971,5/17/2009,54
+1329,Dr. S M Hisam Al Rabbi,SSO,5/25/1982,11/12/2007,43
+1408,Ripon Kumar Roy,SSO,7/16/1983,6/5/2010,42
+1603,Md. Arafat Hossain,SO,11/30/1989,9/23/2014,35
+1596,Shampa Das Joya,SO,12/10/1987,9/23/2014,37
+1183,Dr. Mir Sharf Uddin Ahmed,PSO,1/3/1970,8/20/1998,55
+1252,Dr. Ebna Syod Md. Harunur Rashid,SSO,1/9/1974,5/10/2001,51
+1332,Md. Abubakar Siddique,SSO,1/1/1984,11/12/2007,41
+1335,Dr. Armin Bhuiya,SSO,12/29/1982,11/12/2007,42
+1382,Dr. Mohammad Zahidul Islam,SSO,11/30/1977,5/14/2005,47
+1383,Md. Humayun Kabir Baktiar,SO,2/9/1977,11/9/2005,48
+1616,Tonmoy Chakrabarty,SO,2/16/1991,7/26/2015,34
+1618,Nadia Akter,SO,10/27/1989,7/26/2015,36
+1175,Dr. Muhammad Ali Siddiquee,CSO,7/11/1964,12/1/1996,61
+1131,Dr. Sheikh Shamiul Haquee,CSO,11/1/1965,9/29/1993,60
+1168,Dr. Md Anwarul Haque,PSO,3/9/1966,11/21/1994,59
+1182,Md Mosaddeque Hossain,PSO,8/10/1969,8/20/1998,56
+1186,Dr. Md Mofazzel Hossain,CSO,1/1/1970,8/20/1998,55
+1240,Dr. Md Nazmul Bari,PSO,10/1/1970,2/28/1999,55
+1325,A.B.M. Anwar Uddin,SSO,1/1/1977,11/12/2007,48
+1336,Dr. Md Panna Ali,SSO,4/12/1981,11/12/2007,44
+1531,Mir Md. Moniruzzaman  Kabir,SSO,8/23/1986,1/6/2013,39
+1584,Farzana Nowrin,SSO,10/15/1989,7/25/2013,36
+1628,Sadia Afrin,SO,3/12/1990,7/20/2015,35
+1148,Dr. Md. Shahidul Islam,CSO,1/18/1966,11/21/1994,59
+1297,Dr. Sharifa Sultana Dipti,PSO,2/7/1969,2/28/1999,56
+1159,Dr. Md Abu Bakar Siddique Sarker,PSO,9/17/1967,1/21/1994,58
+1298,Dr. Nilufa Ferdous ,SSO,1/3/1970,2/28/1999,55
+1380,Dr.Tapash Kumar Sarkar,SSO,9/12/1976,6/30/2004,49
+1243,Dr. Md Khairul Alam Bhuiyan,PSO,1/1/1970,2/28/1999,55
+1593,Dr. Habibul Bari Shozib ,SSO,3/7/1980,9/23/2014,45
+1594,Shakir Hosen,SSO,12/1/1983,9/23/2014,41
+1255,Dr. Md Adil Badshah,PSO,8/25/1970,1/1/1971,55
+1050,Dr. Abhijit Saha,CSO,1/1/1961,11/20/1988,64
+1295,Shah Ashadul Islam,SSO,1/1/1980,11/17/2019,45
+1052,Dr. Muhammad Nasim,CSO,9/1/1963,11/20/1988,62
+1135,Dr. Md Abdul Muttaleb,PSO,12/31/1963,10/4/1993,61
+1333,Mst. Selima Zahan,SSO,6/30/1981,11/12/2007,44
+1191,Dr. Md Ibrahim ,PSO,2/1/1970,8/20/1998,55
+1389,Md Iftekhar Mahmud Akand,SSO,9/27/1986,8/20/2009,39
+1200,Dr. Amina Khatun,PSO,10/30/1969,8/20/1998,56
+1443,Md. Masud Rana,SSO,5/5/1987,6/3/2012,38
+1169,Dr S M Shahidullah,SSO,5/4/1967,12/1/1994,58
+1352,Rakiba Shultana,SSO,1/1/1983,11/12/2007,42
+1344,Dr. Satyen Mondal,SSO,1/29/1981,11/12/2007,44
+1595,Dr. Amena Sultana,SSO,12/30/1981,11/17/2019,43
+1331,Md Khairul Quais,SSO,10/16/1982,12/1/2007,43
+1604,Dr. Nasima Akter,SSO,12/1/1982,7/26/2015,42
+1395,Nargis Parvin,SSO,3/16/1983,8/20/2009,42
+1409,A B M Jamiul Islam,SSO,10/1/1982,5/6/2010,43
+1451,Md. Asad-uz-zaman,SSO,11/5/1987,6/3/2012,38
+1558,Md. Zakaria Ibna Baki ,SSO,11/16/1990,7/10/2013,35
+1567,Bir Jahangir Shirazy,SSO,10/15/1989,7/10/2013,36
+1608,A. B. M Mostafizur ,SO,10/1/1990,7/20/2015,35
+1626,Romana Akter,SO,11/5/1990,7/26/2015,35
+1173,Dr. Rumena Yasmeen,CSO,11/1/1967,12/17/1995,58
+1201,Dr. Mst. Salma Parvin,PSO,12/31/1971,8/20/1998,53
+1208,Md Sirajul Islam,CSO,11/11/1970,8/20/1998,55
+1253,Dr. Md. Sazzadur Rahman,PSO,10/20/1973,5/10/2001,52
+1410,Dr. Md. Rejaul Monir,SSO,2/1/1979,5/6/2010,46
+1248,Dr. Md. Mamunur Rashid,SSO,2/2/1973,2/28/1999,52
+1565,Md Mamunur Rashid,SSO,11/14/1988,7/10/2013,37
+1347,Dr. Hirendra Nath Barman,SSO,1/31/1982,11/12/2007,43
+1448,Salma Akter,SSO,6/1/1988,6/3/2012,37
+1562,Tuhin Halder,SO,11/15/1989,7/10/2013,36
+1572,Avijit Biswas,SO,1/15/1990,7/10/2013,35
+1138,Dr. Md Abdul Latif,CSO,12/30/1965,11/1/1993,59
+1158,Dr. Tahmid Hossain Ansari,PSO,3/15/1966,11/21/1994,59
+1187,Dr. Quazi Shireen Akhter Jahan,PSO,3/18/1970,8/20/1998,55
+989,Dr. Md. Islam Uddin Mollah,CSO,3/4/1961,11/9/1986,64
+1205,Dr. Mohammad Salim Mian,PSO,12/31/1969,8/20/1998,55
+1299,Dr. Md Shahadat Hossain,PSO,1/1/1970,2/28/1999,55
+1242,Dr. Shamima Akter,SSO,7/1/1971,8/2/2001,54
+1326,Md Abul Monsor,SSO,3/1/1981,11/12/2007,44
+1339,Mst. Tuhina Khatun,SSO,10/29/1980,11/12/2007,45
+1342,Md. Rejwan Bhuiyan ,SSO,6/7/1983,11/12/2007,42
+1211,Dr. Mohammad Ashik Iqbal Khan,PSO,1/30/1972,10/14/1998,53
+1394,Dr. Bodrun Nessa,SSO,2/20/1979,8/20/2009,46
+1244,Dr. Shahnaz Parveen,SSO,10/8/1970,2/8/2001,55
+1564,Montasir Ahmed,SO,12/19/1989,7/10/2013,35
+894,Dr. Shafiqul Islam Momin,CSO,1/1/1960,9/16/1985,65
+1571,Anjuman Ara,SSO,12/15/1985,7/10/2013,39
+1102,Dr. Md Atiqul Islam,CSO,9/1/1963,11/1/1990,62
+1613,Sheikh Arafat Islam Nihad,SO,1/1/1992,7/26/2015,33
+1620,Rumana Akter,SO,11/22/1987,7/26/2015,38
+1193,Dr. Biswajit Karmakar,PSO,9/10/1969,8/20/1998,56
+1206,Dr. Md Humayan Kabir,SSO,5/4/1971,8/20/1998,54
+1293,Md Habibur Rahman Mukul,SSO,12/20/1974,7/20/2005,50
+1625,Hosne Ara Dilzahan,SO,7/1/1991,7/26/2015,34
+1346,Dr.Md.Mamunur Rahman,SSO,1/1/1982,11/12/2007,43
+1348,Dr. Shamsunnaher,SSO,10/9/1981,11/12/2007,44
+1391,Afruz Zahan,SSO,6/19/1982,8/20/2009,43
+1397,Rajesh Barua,SSO,1/10/1984,8/20/2009,41
+1450,Md. Romel Biswash,SO,10/20/1988,6/3/2012,37
+1599,Golam Sarwar Jahan,SO,11/20/1989,9/23/2014,36
+1600,Mir Mehedi Hasan,SO,12/19/1988,9/23/2014,36
+1301,Md Saiful Islam,PSO,10/10/1969,2/28/1999,56
+1387,Dr. Md Jahangir Kabir ,PSO,7/1/1974,5/20/2009,51
+1355,Dr. Md. Abdus Salam,SSO,3/21/1983,11/12/2007,42
+1357,Dr. Mohammad Ariful Islam,SSO,10/26/1979,11/12/2007,46
+1046,Dr. Muhammad Abdur Rahman,CSO,9/25/1962,8/4/1988,63
+1163,Dr. Md Durrul Huda,CSO,3/16/1968,11/21/1994,57
+1605,Md. Imran Omar,SSO,12/7/1987,7/26/2015,37
+1185,Dr. A K M Saiful Islam,PSO,5/9/1968,8/20/1998,57
+1607,Md. Abdur Rouf Sarkar,SSO,6/20/1986,7/26/2015,39
+1256,Dr. Md Golam Kibria Bhuiyan,SSO,8/25/1971,5/10/2001,54
+1296,Dr. Md Anwar Hossen,SSO,4/1/1975,7/20/2005,50
+1534,Dr. Mohammad Chhiddikur Rahman,SSO,12/15/1989,1/6/2013,35
+1379,Mohammad Kamruzzaman Milon,SSO,11/1/1976,6/26/2004,49
+1535,Afroza Chowdhury,SSO,10/16/1989,1/6/2013,36
+1400,Subrata Paul,SSO,12/20/1980,8/20/2009,44
+1586,Md. Shajedur Rahaman,SO,9/25/1989,6/10/2013,36
+1611,Limon Deb,SO,12/20/1990,7/26/2015,34
+1453,Md. Ashraful Alam,SSO,3/10/1982,6/3/2012,43
+1189,Dr. Aminul Islam,CSO,7/1/1971,8/20/1998,54
+1554,Md. Kamruzzaman Pinto ,SSO,12/10/1988,7/10/2013,36
+1181,Dr. Md. Rafiqul Islam,CSO,11/25/1971,8/20/1998,54
+1202,Dr. Umme Aminun Naher,PSO,10/28/1970,8/20/1998,55
+1304,Dr. A.T.M. Sakhawat Hossain,PSO,11/11/1972,2/28/1999,53
+1246,Dr. Fahmida Rahman,SSO,3/11/1972,2/28/1999,53
+1621,Md. Monirul Islam ,SO,11/11/1989,7/26/2015,36
+1324,Dr. Masuda Akter,SSO,8/15/1982,11/12/2007,43
+1623,Md. Mizanur Rahman,SO,11/20/1989,7/26/2015,36
+1341,Dr. Mosud Iqbal,SSO,6/18/1981,11/12/2007,44
+1381,Dr. Md Mozammel Haque,SSO,12/1/1973,9/27/2004,51
+1447,Md. Nayeem Ahmed,SSO,5/16/1985,6/3/2012,40
+1449,Md. Nazrul Islam,SSO,10/1/1984,6/3/2012,41
+1452,Md. Imran Ullah Sarkar,SSO,11/18/1988,6/3/2012,37
+1044,Dr Md Towfiqul Islam,CSO,12/25/1962,8/7/1988,62
+1533,Farzana Alam,SO,11/30/1988,1/6/2013,36
+1153,Dr. Md Maniruzzaman,PSO,11/22/1964,11/21/1994,61
+1204,Dr. Md Mahbubul Alam,SSO,6/3/1971,8/20/1998,54
+1629,Afsana Jahan,SO,9/26/1990,7/26/2015,35
+1260,Dr. Abul Basar Md. Zahid Hossain,SSO,11/30/1970,8/21/2001,54
+1627,Mahmuda Akter,SO,11/7/1991,7/26/2015,34
+1373,Muhammad Sajidur Rahman,PSO,1/1/1974,7/28/2002,51
+1358,Dr. Debjit Roy,SSO,12/7/1980,11/12/2007,44
+1399,Priya Lal Chandra Paul,SSO,1/1/1980,8/20/2009,45
+1454,Md. Belal Hossain,SSO,7/14/1987,6/18/2012,38
+1555,Mst. Shetara Yesmin,SSO,2/20/1988,7/10/2013,37
+1360,Dr Biraj Kumar Biswas,PSO,1/7/1963,2/18/2007,62
+1365,Dr. Md Ismail Hossain,CSO,2/28/1973,11/27/1997,52
+1354,Bidhan Chandra Nath,SSO,12/31/1976,12/11/2007,48
+1356,Mohammad Afzal Hossain,SSO,12/1/1982,11/12/2007,42
+1532,Niaz Md. Farhat Rahman,SSO,11/1/1983,1/6/2013,42
+1624,Hafijur Rahaman,SO,4/10/1990,7/26/2015,35
+1606,Md. Abdul Qayum,SSO,7/1/1985,7/26/2015,40
+1526,Md. Abdullah Aziz,SSO,12/31/1983,1/1/2013,41
+1622,Md. Abdullah Al Mamun,SO,5/6/1988,7/26/2015,37
+1561,Md. Mostofa Mahbub,SSO,8/30/1985,7/10/2013,40
+819,Dr. Md. Gous Ali,PSO,7/31/1959,12/5/2019,66
+1197,Dr. Md. Humayun Kabir ,CSO,6/15/1968,8/20/1998,57
+1612,Palash Kumar Kundu,SO,11/25/1989,7/26/2015,36
+1556,Md. Hannan Ali,SSO,6/5/1983,7/10/2013,42
+1170,Md. Rafiqul Islam,PSO,1/10/1966,12/1/1994,59
+1359,Mir Nurul Hasan Mahmud,SSO,10/13/1980,11/12/2007,45
+1196,Dr. Mohammod Hossain,PSO,11/20/1970,8/20/1998,55
+1617,Md. Hasibur Rahman,SO,1/1/1990,7/26/2015,35
+1337,Dr. Shela Pramanik,SSO,12/1/1981,11/12/2007,43
+1327,dr. S M Mofijul Islam,SSO,1/5/1982,12/15/2014,43
